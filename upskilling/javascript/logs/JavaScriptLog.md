@@ -1,7 +1,8 @@
-## 2025-12-10
+## Date: 10th Dec 2025
+
 **Time spent:** 30–60 min
 
-### What I did
+### What I learn from the course
 - Set up Sprint 0 Trello + GitHub repo structure
 - Created JavaScript upskilling journey log
 
@@ -14,3 +15,4 @@
 
 ### Next step
 - Udemy: complete next section + write 3 bullet takeaways here
+
